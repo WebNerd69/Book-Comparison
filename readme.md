@@ -74,7 +74,6 @@ Special thanks to:
 - The open-source community for inspiration
 - Project collaborators for their valuable input
 
----
-*Created with ❤️ by a passionate programmer*
 
-*Submittion from* - ##IITGCS-24061391(WebNerd69 / Rudra Pratap Roy)
+
+*Submittion from* - ##IITGCS-24061237(Ashwin A S)
